@@ -2,4 +2,5 @@
 int main(){
     printf("hello world!");
     printf("cham hoc len");
+    printf("chao mung ban den voi fpt");
 }
