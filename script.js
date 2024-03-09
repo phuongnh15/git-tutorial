@@ -1,2 +1,5 @@
 console.log("Hello World");
-prinft("xin chao!")
+printf("xin chao!");
+int main(){
+    
+}
